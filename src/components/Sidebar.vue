@@ -1,0 +1,9 @@
+<template>
+    <aside>
+        sidebar
+        <ul>
+            <li>tiramisu</li>
+            <li>coke</li>
+        </ul>
+    </aside>
+</template>
